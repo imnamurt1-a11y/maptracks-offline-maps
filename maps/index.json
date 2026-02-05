@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "defaultRegionId": "pa",
+  "regions": [
+    { "id": "pa", "name": "Pennsylvania", "pmtilesUrl": "" },
+    { "id": "ny", "name": "New York",      "pmtilesUrl": "" },
+    { "id": "nj", "name": "New Jersey",    "pmtilesUrl": "" },
+    { "id": "de", "name": "Delaware",      "pmtilesUrl": "" },
+    { "id": "md", "name": "Maryland",      "pmtilesUrl": "" },
+    { "id": "wv", "name": "West Virginia", "pmtilesUrl": "" },
+    { "id": "oh", "name": "Ohio",          "pmtilesUrl": "" }
+  ]
+}
