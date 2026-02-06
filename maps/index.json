@@ -5,37 +5,44 @@
     {
       "id": "pa",
       "name": "Pennsylvania",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-pa_9f20d312ec.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-pa_9f20d312ec.pmtiles",
+      "sizeBytes": 267386880
     },
     {
       "id": "ny",
       "name": "New York",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-ny_cb3b742f69.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-ny_cb3b742f69.pmtiles",
+      "sizeBytes": 572522496
     },
     {
       "id": "nj",
       "name": "New Jersey",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-nj_85088ab892.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-nj_85088ab892.pmtiles",
+      "sizeBytes": 147849216
     },
     {
       "id": "de",
       "name": "Delaware",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-de_2521608c43.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-de_2521608c43.pmtiles",
+      "sizeBytes": 28311552
     },
     {
       "id": "md",
       "name": "Maryland",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-md_141c21cabc.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-md_141c21cabc.pmtiles",
+      "sizeBytes": 201326592
     },
     {
       "id": "wv",
       "name": "West Virginia",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-wv_8808022261.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-wv_8808022261.pmtiles",
+      "sizeBytes": 276824064
     },
     {
       "id": "oh",
       "name": "Ohio",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-oh_104f127f65.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-oh_104f127f65.pmtiles",
+      "sizeBytes": 275775488
     }
   ]
 }
