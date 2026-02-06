@@ -5,37 +5,37 @@
     {
       "id": "pa",
       "name": "Pennsylvania",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/download/maps-v1/pennsylvania.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-pa_9f20d312ec.pmtiles"
     },
     {
       "id": "ny",
       "name": "New York",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/download/maps-v1/new_york.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-ny_cb3b742f69.pmtiles"
     },
     {
       "id": "nj",
       "name": "New Jersey",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/download/maps-v1/new_jersey.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-nj_85088ab892.pmtiles"
     },
     {
       "id": "de",
       "name": "Delaware",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/download/maps-v1/delaware.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-de_2521608c43.pmtiles"
     },
     {
       "id": "md",
       "name": "Maryland",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/download/maps-v1/maryland.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-md_141c21cabc.pmtiles"
     },
     {
       "id": "wv",
       "name": "West Virginia",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/download/maps-v1/west_virginia.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-wv_8808022261.pmtiles"
     },
     {
       "id": "oh",
       "name": "Ohio",
-      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/download/maps-v1/ohio.pmtiles"
+      "pmtilesUrl": "https://github.com/imnamurt1-a11y/maptracks-offline-maps/releases/latest/download/us-oh_104f127f65.pmtiles"
     }
   ]
 }
